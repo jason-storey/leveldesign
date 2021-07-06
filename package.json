@@ -1,0 +1,27 @@
+{
+    "name": "com.jasonstorey.leveldesign",
+    "version": "0.0.1-preview.1",
+    "displayName": "Jason's Level Design",
+    "description": "Level Design Starter tools and assets",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/jason-storey/leveldesign#readme",
+    "changelogUrl": "CHANGELOG.md",
+    "author": {
+      "name": "Jason Storey",
+      "email": "jasonstoreyireland@gmail.com",
+      "url": "https://github.com/jason-storey"
+    },
+    "dependencies": {
+      "com.unity.postprocessing": "2.3.0",
+      "com.unity.probuilder": "4.4.0"
+    },
+    "samples": [
+      {
+        "displayName": "Example Levels",
+        "description": "Some Starting rooms and environments",
+        "path": "Samples/Levels"
+      }
+    ],
+    "hideInEditor": false
+  }
