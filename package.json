@@ -14,13 +14,15 @@
     },
     "dependencies": {
       "com.unity.postprocessing": "2.3.0",
-      "com.unity.probuilder": "4.4.0"
+      "com.unity.probuilder": "4.4.0",
+      "com.unity.cinemachine": "2.6.5",
+      "com.unity.inputsystem": "1.0.2"
     },
     "samples": [
       {
-        "displayName": "Example Levels",
-        "description": "Some Starting rooms and environments",
-        "path": "Samples/Levels"
+        "displayName": "Basic Room Levels",
+        "description": "A simple room and character controller",
+        "path": "Examples/Basic Room"
       }
     ],
     "hideInEditor": false

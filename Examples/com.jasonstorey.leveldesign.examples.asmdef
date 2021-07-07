@@ -1,0 +1,18 @@
+{
+    "name": "com.jasonstorey.leveldesign.examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4289b170993b3af4db2d6c0a7a641080",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
